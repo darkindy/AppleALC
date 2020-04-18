@@ -9496,20 +9496,22 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
-					<string>Mirone - IDT 92HD99BXX </string>
+					<string>IDT 92HD99BXX by darkindy</string>
 					<key>CodecID</key>
 					<integer>287143653</integer>
 					<key>ConfigData</key>
 					<data>
-					AKccEACnHZAApx6BAKcfAgC3HCAAtx1AALce
-					IQC3HwIAxxwwAMcdAADHHvAAxx9AANccQADX
-					HQAA1x4TANcf0AD3HFAA9x0AAPce8AD3H0AB
-					FxxgARcdAAEXHqABFx+QANcMAg==
+					ANccEADXHQEA1x4TANcf2QDXDAIAtxwfALcd
+					QAC3HiEAtx8EALcMAg==
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>3</integer>
+					<key>WakeConfigData</key>
+					<data>ANcMAgC3DAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
